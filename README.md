@@ -1,4 +1,4 @@
-Ultrasonic Distance Sensor using HC-SR04, ESP32, TFT 2.8 inches 320x240 display and Web Server
+#Ultrasonic Distance Sensor using HC-SR04, ESP32, TFT 2.8 inches 320x240 display and Web Server
 This project demonstrates how to use an ultrasonic distance sensor with an ESP32 board, a TFT 2.8 inches 320x240 display, and a web server that updates the distance. The ultrasonic sensor uses sonar to determine the distance to an object. We’ll show you how to wire the sensor to the ESP32 and provide several example sketches to determine the distance to an object using the HC-SR04.
 
 Parts Required
